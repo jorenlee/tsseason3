@@ -1,4 +1,4 @@
-import{T as Ss}from"./CFLi3euS.js";const Yi=Ss("/img/BPI.jpeg");//! moment.js
+import{T as Ss}from"./rP3Cx9BL.js";const Yi=Ss("/img/BPI.jpeg");//! moment.js
 //! version : 2.30.1
 //! authors : Tim Wood, Iskren Chernev, Moment.js contributors
 //! license : MIT
