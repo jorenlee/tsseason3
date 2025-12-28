@@ -1,0 +1,1 @@
+import{_ as e,x as t,y as o}from"./DKjNAtLN.js";const n={},c={class:"text-3xl font-bold text-red-900 text-center border my-20"};function r(s,l){return o(),t("div",c," Hello Everyone, welcome to nuxt 3 + tailwindcss ")}const _=e(n,[["render",r]]);export{_ as default};
